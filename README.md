@@ -2,7 +2,8 @@
 
 # TODO LIST 
   - [x] Scrap Emoji Data p1
-  - [ ] Scrap Emoji Data p2
+  - [x] Scrap Emoji Data p2
+  - [ ] Encodeing/Decode Data
   - [ ] Completing the React component
  
   
