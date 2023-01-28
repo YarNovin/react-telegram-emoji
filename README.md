@@ -1,9 +1,9 @@
 # react-telegram-emoji
 
 # TODO LIST 
-  - [ ] Scrap Emoji Data part 1
-  - [ ] Scrap Emoji Data part 2 
-  - [ ] Encodeing/Decode Data
+  - [x] Scrap Emoji Data part 1
+  - [x] Scrap Emoji Data part 2 
+  - [x] Encodeing/Decode Data
   - [ ] Completing the React component
  
   
